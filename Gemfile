@@ -9,6 +9,9 @@ gem "rails", "~> 7.0.5"
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 
+# for setting up our user account
+gem "devise"
+
 # Use sqlite3 as the database for Active Record
 gem "sqlite3", "~> 1.4"
 
